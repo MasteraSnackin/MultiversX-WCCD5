@@ -1,0 +1,11 @@
+[package]
+name = "snow_token_issuer"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+multiversx-sc = "0.22.0"
+multiversx-sc-derive = "0.22.0"
+
+[lib]
+crate-type = ["cdylib"]
