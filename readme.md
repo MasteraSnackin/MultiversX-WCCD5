@@ -65,9 +65,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests. For
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
-For questions, suggestions, or contributions, please contact [your-email@example.com].
-
 Thank you for your interest in the Snow Token Issuer project!
 
 
